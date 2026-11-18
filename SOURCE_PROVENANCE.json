@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "source": "Original local reconstruction/R/qc.R",
+      "payload": "R/qc.R",
+      "sha256": "0ab6b73152d7eabf8bcb7ea210361e65c9478b97c2bf960422657df691239da7",
+      "transformation": "Unchanged original bytes"
+    },
+    {
+      "source": "Original local reconstruction/R/schema.R",
+      "payload": "R/schema.R",
+      "sha256": "75bb68e537f2bb320d17001d0e221310275e7abaa491866482b9cd6ebadac796",
+      "transformation": "Unchanged original bytes"
+    },
+    {
+      "source": "Original local reconstruction/tests/test_qc.R",
+      "payload": "tests/test_qc.R",
+      "sha256": "7828255f3bb94f3bc7a53814cb75ef9bc28a7a165222261e5014bb4f4005e55e",
+      "transformation": "Unchanged original bytes"
+    }
+  ],
+  "new_files": [
+    "R/api.R",
+    "tests/test_api.R",
+    "examples/synthetic_qc.R"
+  ],
+  "source_path_policy": "Original absolute locators retained only in the local author-only execution receipt."
+}

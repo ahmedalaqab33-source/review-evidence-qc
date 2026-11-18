@@ -1,0 +1,9 @@
+{
+  "tested_runtime": "R 4.6.1",
+  "runtime_flags": [
+    "--vanilla"
+  ],
+  "contributed_packages": [],
+  "other_R_versions": "not verified",
+  "network_required": false
+}

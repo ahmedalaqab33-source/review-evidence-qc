@@ -1,0 +1,99 @@
+{
+  "status": "CLEARED_CODE_ONLY_RELEASE",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": "https://github.com/ahmedalaqab33-source/review-evidence-qc",
+  "gates": {
+    "G1": "PASS",
+    "G2": "PASS",
+    "G3": "PASS",
+    "G4": "PASS",
+    "G5": "PASS",
+    "G6": "PASS",
+    "G7": "PASS",
+    "G8": "PASS"
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+      "bytes": 9
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f4eb9fecca402ab91f2609bffef21a436e942bd4931390af6a41f02d69f3a349",
+      "bytes": 91
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "675c4dd73ba27b4084dc18617d1db488800c61b3eab7a74144691ba2e457d51d",
+      "bytes": 347
+    },
+    {
+      "path": "DATA_AVAILABILITY.md",
+      "sha256": "62548bb70f1df3b19c0db5cd1da60fd3890d12aad320912629e6487ff8b5ddea",
+      "bytes": 223
+    },
+    {
+      "path": "docs/RELEASE_STATUS.md",
+      "sha256": "30a0347c6f2320ba26796d2e86500c40c05e9c6175bb82b5b1a19f4cdfb4df8a",
+      "bytes": 941
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "sha256": "2e34b3af4f314a8392153f868ee7a61dcde873bc9dd8c28d873d22307ff4492b",
+      "bytes": 719
+    },
+    {
+      "path": "environment.json",
+      "sha256": "1e8915c08d14c50aabb899fe335d3f83429d5a6a43b92c783fba4dd1ea0606b2",
+      "bytes": 180
+    },
+    {
+      "path": "examples/synthetic_qc.R",
+      "sha256": "9938589a5af690e64134b208ae74c4fe34b6ea35df3e4812523f023c8a5e7569",
+      "bytes": 328
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "7a749c2cffb54e8303122c98dab3dc0c8e390e49cb2fb6a6d64acba2a2cf4797",
+      "bytes": 1090
+    },
+    {
+      "path": "R/api.R",
+      "sha256": "32083fd2c649a9a09da04c6914f88eabe99931718cb47a3cccfaaea30b670fb3",
+      "bytes": 579
+    },
+    {
+      "path": "R/qc.R",
+      "sha256": "0ab6b73152d7eabf8bcb7ea210361e65c9478b97c2bf960422657df691239da7",
+      "bytes": 5648
+    },
+    {
+      "path": "R/schema.R",
+      "sha256": "75bb68e537f2bb320d17001d0e221310275e7abaa491866482b9cd6ebadac796",
+      "bytes": 1817
+    },
+    {
+      "path": "README.md",
+      "sha256": "750921d7c7658b9ab7c941328158d2c33338b4879d8fb48b05d945d25a13e377",
+      "bytes": 3255
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "sha256": "dd8fda2c05aa57d14c16c3e9c59542d80339be07b229dad06bfef93b4e78a35a",
+      "bytes": 968
+    },
+    {
+      "path": "tests/test_api.R",
+      "sha256": "855a544b0160fa08690428e0238f33c7de5bbb9c2a0b960b34a61f39370e09b0",
+      "bytes": 971
+    },
+    {
+      "path": "tests/test_qc.R",
+      "sha256": "7828255f3bb94f3bc7a53814cb75ef9bc28a7a165222261e5014bb4f4005e55e",
+      "bytes": 3301
+    }
+  ],
+  "manifest_scope": "All payload files except this self-referential manifest; exact manifest hash recorded in external publication receipt."
+}

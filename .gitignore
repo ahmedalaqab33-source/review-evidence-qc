@@ -1,0 +1,10 @@
+*.xlsx
+*.csv
+*.sav
+*.rds
+*.RData
+*.parquet
+*.duckdb
+.env*
+.Rhistory
+.Rproj.user/
